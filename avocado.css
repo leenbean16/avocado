@@ -1,12 +1,7 @@
-body{
+.avocado{
 
-	margin:50px;
-}
-
-p{
-    font-family: 'Oleo Script', cursive;
-    font-size: 21px;
-    padding:50px;
+	margin-top:50px;
+    margin-left: 300px;
 }
 
 .avocadoshell{
@@ -16,6 +11,8 @@ p{
     width: 415px;
     height: 520px;
     border: 5px solid black;
+    margin-left: 30%;
+    margin-top: 10%;
 }
 
 .avocadodots{
