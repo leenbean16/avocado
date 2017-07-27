@@ -1,11 +1,19 @@
-.avocado{
 
-	margin-top:50px;
-    margin-left: 300px;
+.col.s12.m12.l12 {
+    font-family: 'Delius Unicase', cursive;
+    background: #EEE;
+    height: 600px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20%;
+}
+.avocado {
+    text-align: center;
+    display:inline-block;
 }
 
-.avocadoshell{
-	background: #141c09;
+.avocadoshell {
+    background: #141c09;
     padding: 10px;
     border-radius: 1200px 300px 800px 800px;
     width: 415px;
@@ -15,7 +23,7 @@
     margin-top: 10%;
 }
 
-.avocadodots{
+.avocadodots {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -24,7 +32,7 @@
     margin-left: 334px;
 }
 
-.avocadodots2{
+.avocadodots2 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 5px solid #1b260d;
@@ -34,7 +42,7 @@
     margin-top: -14px;
 }
 
-.avocadodots3{
+.avocadodots3 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -44,7 +52,7 @@
     margin-top: -31px;
 }
 
-.avocadodots4{
+.avocadodots4 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -54,7 +62,7 @@
     margin-top: -9px;
 }
 
-.avocadodots5{
+.avocadodots5 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -64,7 +72,7 @@
     margin-top: -21px;
 }
 
-.avocadodots6{
+.avocadodots6 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -74,7 +82,7 @@
     margin-top: -12px;
 }
 
-.avocadodots7{
+.avocadodots7 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -84,7 +92,7 @@
     margin-top: -10px;
 }
 
-.avocadodots8{
+.avocadodots8 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -94,7 +102,7 @@
     margin-top: -11px;
 }
 
-.avocadodots9{
+.avocadodots9 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -104,7 +112,7 @@
     margin-top: 1px;
 }
 
-.avocadodots10{
+.avocadodots10 {
     background: #1e2b0e;
     border-radius: 900px;
     border: 3px solid #1b260d;
@@ -114,18 +122,18 @@
     margin-top: 4px;
 }
 
-.darkgreen{
+.darkgreen {
     background: #969b3b;
     padding: 110px;
     border-radius: 3500px 1000px 2500px 2500px;
     border: 7px solid #501608;
     width: 370px;
-    height:475px;
+    height: 475px;
     margin-left: 23px;
     margin-top: -75px;
 }
 
-.greenpart{
+.greenpart {
     background: #acb242;
     padding: 110px;
     border-radius: 3500px 1000px 2500px 2500px;
@@ -135,8 +143,7 @@
     margin-top: -103px;
 }
 
-
-.lightgreenpart{
+.lightgreenpart {
     background: #BCBC55;
     padding: 70px;
     border-radius: 3500px 1000px 2500px 2500px;
@@ -147,7 +154,7 @@
     margin-top: -103px;
 }
 
-.four{
+.four {
     background: #C8C75C;
     padding: 70px;
     border-radius: 3500px 1000px 2500px 2500px;
@@ -157,7 +164,7 @@
     margin-top: -62px;
 }
 
-.five{
+.five {
     background: #F2E17A;
     padding: 70px;
     border-radius: 3500px 1000px 2500px 2500px;
@@ -168,7 +175,7 @@
     margin-top: -64px;
 }
 
-.six{
+.six {
     background: #f9e26b;
     padding: 70px;
     border-radius: 3500px 1000px 2500px 2500px;
@@ -179,7 +186,7 @@
     margin-top: -74px;
 }
 
-.seven{
+.seven {
     background: #f7e756;
     padding: 70px;
     border-radius: 3500px 1000px 2500px 2500px;
@@ -190,7 +197,7 @@
     margin-top: -74px;
 }
 
-.eight{
+.eight {
     background: #fce728;
     padding: 70px;
     border-radius: 4500px 1000px 2500px 2500px;
@@ -200,7 +207,8 @@
     height: 308px;
     margin-top: -74px;
 }
-.seed{
+
+.seed {
     background: #5b3d16;
     padding: 40px;
     border-radius: 800px;
@@ -210,7 +218,7 @@
     margin-left: -66px;
 }
 
-.nine{
+.nine {
     background: #633e0d;
     padding: 40px;
     border-radius: 800px;
@@ -221,7 +229,7 @@
     margin-top: -38px;
 }
 
-.ten{
+.ten {
     background: #6d4818;
     padding: 40px;
     border-radius: 800px;
@@ -232,7 +240,7 @@
     margin-top: -38px;
 }
 
-.eleven{
+.eleven {
     background: #936b36;
     padding: 40px;
     border-radius: 800px;
@@ -243,7 +251,7 @@
     margin-top: -38px;
 }
 
-.twelve{
+.twelve {
     background: #bf8233;
     padding: 26px;
     border-radius: 800px;
@@ -254,7 +262,7 @@
     margin-top: -38px;
 }
 
-.lightbrown{
+.lightbrown {
     background: #dba769;
     padding: 20px;
     border-radius: 800px;
@@ -264,7 +272,7 @@
     margin-top: -24px;
 }
 
-.thirteen{
+.thirteen {
     background: white;
     padding: 6px;
     border-radius: 800px;
@@ -274,7 +282,7 @@
     margin-top: -14px;
 }
 
-.fourteen{
+.fourteen {
     background: white;
     padding: 9px;
     border-radius: 800px;
@@ -282,3 +290,18 @@
     margin-left: -8px;
     margin-top: -1px;
 }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+}
+
